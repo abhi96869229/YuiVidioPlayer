@@ -85,10 +85,5 @@ CMD python3 -m main.py
 
 
 ![image](https://user-images.githubusercontent.com/75154223/132800297-3e2b86d9-cebf-451a-9a30-7b2ca12b1084.png)
-Dear @Yuividioplayerbot Bot Users
-
-We are going to delete this bot,
-We don't have enough resources to keep this bot alive,
-Thank You for Using Our Service
 
 Note: Only Bot Will Delte the  of bot will there and it will update 
