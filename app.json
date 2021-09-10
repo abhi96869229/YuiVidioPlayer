@@ -39,7 +39,7 @@
                 "value": "my",
                 "required": false
         }
-    },
+       },
     "addons": [],
     "buildpacks": [
         {
@@ -52,5 +52,5 @@
             "size": "free"
         }
     },
-    "container": "heroku-20"
+    "stack": "container"
 }
