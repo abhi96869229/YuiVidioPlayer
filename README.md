@@ -82,3 +82,13 @@ CMD python3 -m main.py
 # Support 
 
 <a href="https://t.me/safothebot"><img src="https://img.shields.io/badge/Support_Group-2cb6e0?style=for-the-badge&logo=telegram&logoColor=white"></a> <a href="https://t.me/AsmSafone"><img src="https://img.shields.io/badge/Updates_Channel-2cb6e0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+
+
+![image](https://user-images.githubusercontent.com/75154223/132800297-3e2b86d9-cebf-451a-9a30-7b2ca12b1084.png)
+Dear @Yuividioplayerbot Bot Users
+
+We are going to delete this bot,
+We don't have enough resources to keep this bot alive,
+Thank You for Using Our Service
+
+Note: Only Bot Will Delte the  of bot will there and it will update 
